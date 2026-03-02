@@ -142,6 +142,35 @@ SOC-Detection-Lab-Splunk/
 
 ---
 
+## 📸 Key Evidence
+
+### 🖥 Lab Environment – Windows SOC Machine
+![Lab Setup](Screenshots/01_Windows10_VM_Desktop.png)
+
+### 📊 Splunk SIEM Dashboard
+![Splunk Dashboard](Screenshots/14_Splunk_Dashboard.png)
+
+### 🔍 Nmap Scan – RDP Port 3389 Open
+![Nmap Scan](Screenshots/19_Nmap_Scan_Port3389_Open.png)
+
+### 🔓 Hydra Brute Force Attack in Progress
+![Hydra Attack](Screenshots/23_Hydra_BruteForce_Running.png)
+
+### 🚨 Splunk Detection – 13 Failed Login Events (4625)
+![Failed Logins](Screenshots/24_Splunk_13_FailedLogins_4625.png)
+
+### 📈 Brute Force Timeline Visualization
+![Timechart](Screenshots/29_Attack_Timeline_Timechart.png)
+
+### 🛡 Detection Rule – Alert Logic
+![Detection Rule](Screenshots/31_Splunk_DetectionRule_View.png)
+
+### ✅ Impact Verification – No Successful Login (4624 = 0)
+![Impact Evidence](Screenshots/34_EventCode4624_Zero_Results.png)
+
+> 📁 Full lab evidence (45 screenshots) available in the `/Screenshots` directory.
+---
+
 ## ⚠ Disclaimer
 
 All testing was conducted in a fully isolated virtual lab environment for educational and portfolio purposes only. No real systems were targeted.
