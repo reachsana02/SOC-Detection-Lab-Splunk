@@ -124,24 +124,6 @@ Severity Assessment: HIGH
 
 ---
 
-## 📁 Repository Structure
-
-```
-SOC-Detection-Lab-Splunk/
-│
-├── Report/
-│   └── SOC_Incident_Report.pdf
-│
-├── Screenshots/
-│   ├── Hydra_Attack.png
-│   ├── Splunk_Detection.png
-│   ├── Attack_Timeline.png
-│
-└── README.md
-```
-
----
-
 ## 📸 Key Evidence
 
 ### 🖥 Lab Environment – Windows SOC Machine
@@ -169,6 +151,24 @@ SOC-Detection-Lab-Splunk/
 ![Impact Evidence](Screenshots/34_EventCode4624_Zero_Results_BruteForce_Failed.png)
 
 > 📁 Full lab evidence (45 screenshots) available in the `/Screenshots` directory.
+
+---
+
+## 📁 Repository Structure
+
+```
+SOC-Detection-Lab-Splunk/
+│
+├── Report/
+│   └── SOC_Incident_Report.pdf
+│
+├── Screenshots/
+│   ├── Hydra_Attack.png
+│   ├── Splunk_Detection.png
+│   ├── Attack_Timeline.png
+│
+└── README.md
+```
 ---
 
 ## ⚠ Disclaimer
