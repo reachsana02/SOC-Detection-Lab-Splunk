@@ -166,7 +166,7 @@ SOC-Detection-Lab-Splunk/
 ![Detection Rule](Screenshots/31_Splunk_DetectionRule_View.png)
 
 ### ✅ Impact Verification – No Successful Login (4624 = 0)
-![Impact Evidence](Screenshots/34_EventCode4624_Zero_Results.png)
+![Impact Evidence](Screenshots/34_EventCode4624_Zero_Results_BruteForce_Failed.png)
 
 > 📁 Full lab evidence (45 screenshots) available in the `/Screenshots` directory.
 ---
