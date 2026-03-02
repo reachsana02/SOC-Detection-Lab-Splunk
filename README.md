@@ -163,9 +163,15 @@ SOC-Detection-Lab-Splunk/
 │   └── SOC_Incident_Report.pdf
 │
 ├── Screenshots/
-│   ├── Hydra_Attack.png
-│   ├── Splunk_Detection.png
-│   ├── Attack_Timeline.png
+│   ├── 01_Windows10_VM_Desktop.png
+│   ├── 14_Splunk_Dashboard.png
+│   ├── 19_Nmap_Scan_Port3389_Open.png
+│   ├── 23_Hydra_BruteForce_Running.png
+│   ├── 24_Splunk_13_FailedLogins_4625.png
+│   ├── 29_Attack_Timeline_Timechart.png
+│   ├── 31_Splunk_DetectionRule_View.png
+│   ├── 34_EventCode4624_Zero_Results.png
+│   └── (additional 37 supporting screenshots)
 │
 └── README.md
 ```
